@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7A779328-CA4E-11D2-689A-781BED7BBA0E}") = "2016-02-23_OptiTango", "Assembly-CSharp.csproj", "{964BFF3E-0445-0AC2-6614-E1E82F6AAC10}"
+EndProject
+Project("{7A779328-CA4E-11D2-689A-781BED7BBA0E}") = "2016-02-23_OptiTango", "Assembly-CSharp-Editor.csproj", "{A1A5BFC9-6CE0-6730-BACB-910217F9225C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964BFF3E-0445-0AC2-6614-E1E82F6AAC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964BFF3E-0445-0AC2-6614-E1E82F6AAC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964BFF3E-0445-0AC2-6614-E1E82F6AAC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964BFF3E-0445-0AC2-6614-E1E82F6AAC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A5BFC9-6CE0-6730-BACB-910217F9225C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A5BFC9-6CE0-6730-BACB-910217F9225C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A5BFC9-6CE0-6730-BACB-910217F9225C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A5BFC9-6CE0-6730-BACB-910217F9225C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
